@@ -9,5 +9,5 @@
 <br />
 
 ### Current goals:
-- Release my disord bot, Nullified!
+- Release my discord bot, Nullified!
 - Learn more languages!
