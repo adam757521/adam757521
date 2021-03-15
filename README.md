@@ -14,7 +14,7 @@
 
 <br />
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adam75752&count_private=true&theme=radical)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adam757521&count_private=true&theme=radical)
 
 <br />
 
