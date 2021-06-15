@@ -1,4 +1,4 @@
-### Hi there! my name is Adam I am 13 years old and I love computers!
+### Hi there! my name is Adam and I love computers!
 
 - 🔭 I’m currently working on my discord bot, Nullified!
 - 🌱 I’m currently learning Python, Java and C!
