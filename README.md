@@ -16,7 +16,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adam757521&count_private=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam757521&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam757521&layout=compact&theme=dark)
 
 <br />
 
