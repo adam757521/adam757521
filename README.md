@@ -1,6 +1,6 @@
 ### Hi there! my name is Adam and I love computers!
 
-- 🔭 I’m currently working on ...;
+- 🔭 I’m currently working on discordSuperUtils and PikudHaoref.py;
 - 🌱 I’m currently learning Python, Java and C!
 - 👯 I’m looking to collaborate with other discord bot developers!
 - 💬 Ask me about anything!
