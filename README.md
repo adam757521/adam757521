@@ -17,9 +17,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam757521&layout=compact&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=adam757521&color=brightgreen)
+
 <br />
 
-![](https://komarev.com/ghpvc/?username=adam757521&color=brightgreen)
+### Discord Profile:
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/720149174468870205)](https://discord.com/users/720149174468870205)
+
+<br />
+
 ### I like using these languages:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
